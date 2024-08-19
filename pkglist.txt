@@ -1,5 +1,7 @@
+base-devel
 dmenu
 fd
+firefox
 fzf
 gcc
 git
@@ -8,6 +10,7 @@ jq
 kitty
 linux
 linux-headers
+luarocks
 make
 neovim
 nodejs

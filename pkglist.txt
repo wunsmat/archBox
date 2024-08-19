@@ -14,6 +14,7 @@ luarocks
 make
 neovim
 nodejs
+noto-fonts-emoji
 npm
 podman
 podman-compose
@@ -22,6 +23,7 @@ ripgrep
 starship
 sway
 tmux
+ttf-jetbrains-mono
 unzip
 wmenu
 zip

@@ -23,7 +23,7 @@ ripgrep
 starship
 sway
 tmux
-ttf-jetbrains-mono
+ttf-jetbrains-mono-nerd
 unzip
 wmenu
 zip
